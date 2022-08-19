@@ -1,2 +1,6 @@
 My text
+<<<<<<< HEAD
 Edit for GUI BRANCH
+=======
+New text
+>>>>>>> newBranch
